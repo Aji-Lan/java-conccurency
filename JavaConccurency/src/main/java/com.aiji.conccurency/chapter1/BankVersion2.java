@@ -1,5 +1,8 @@
 package com.aiji.conccurency.chapter1;
 
+/**
+ * runnable多线程实现简易的银行柜台叫号
+ */
 public class BankVersion2 {
 
 	public static void main(String[] args) {

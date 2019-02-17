@@ -1,5 +1,8 @@
 package com.aiji.conccurency.chapter1;
 
+/**
+ * 继承thread方式实现多线程的简易银行叫号
+ */
 public class BankVersion1 {
 
 	public static void main(String[] args) {
